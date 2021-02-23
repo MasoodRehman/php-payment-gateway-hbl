@@ -1,0 +1,22 @@
+{
+    "name": "masoodrehman/php-payment-gateway-hbl",
+    "description": "Payment gateway for Habib Bank Limited (HBL).",
+    "type": "library",
+    "require": {
+        "ext-curl": "^7.2",
+        "ext-json": "*",
+        "ext-openssl": "*"
+    },
+    "authors": [
+        {
+            "name": "MasoodRehman",
+            "email": "masoodurrehman42@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HBLPay\\": "src/HBLPay/"
+        }
+    },
+    "license": "MIT"
+}
