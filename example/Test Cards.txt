@@ -1,0 +1,26 @@
+
+VISA (Non 3D card)
+Card #:             4000000000000101
+CVV:                111     
+Expiry:             12/2020
+
+
+VISA ( 3D card)
+Card #:             4000000000000002
+CVV:                111
+Expiry:             12/2020
+Test Password:      1234
+
+---------------------------------------
+
+MASTER (Non 3D card)
+Card #:     5200000000000114
+CVV:        111
+Expiry:     12/2020
+
+ 
+MASTER ( 3D card)
+Card #:             5200000000000007
+CVV:                111
+Expiry:             12/2020
+Test Password:      1234
